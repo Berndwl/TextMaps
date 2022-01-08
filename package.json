@@ -1,0 +1,8 @@
+{
+  "name": "text-maps",
+  "version": "0.0.1",
+  "dependencies": {
+    "puppeteer": "^13.0.1",
+    "system": "^2.0.1"
+  }
+}
