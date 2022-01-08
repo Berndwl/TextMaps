@@ -9,9 +9,8 @@ Prerequisites
 In order to run this project, you need to install following dependencies:
 
 - [Our build](https://github.com/gogartom/caffe-textmaps) of Caffe
-- [PhantomJS] (http://phantomjs.org/)
 
-*Please note that you need to add PhantomJS to your PATH and pycaffe to your PYTHONPATH.
+*Please note that you need to add pycaffe to your PYTHONPATH.
 
 Demo
 ----------
